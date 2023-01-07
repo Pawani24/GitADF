@@ -1,0 +1,9 @@
+{
+	"name": "SqlDemoAdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4bf311b4-c501-46aa-b54b-d7023802f08e",
+		"tenantId": "36da45f1-dd2c-4d1f-af13-5abe46b99921"
+	}
+}
